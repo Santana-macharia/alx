@@ -1,4 +1,4 @@
-![Screenshot (18)](https://user-images.githubusercontent.com/29565570/115892270-ac083700-a45f-11eb-9b6e-df873ff862e7.png)
+
 # Quasar App 
 
 A Quasar Framework app
