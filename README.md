@@ -21,6 +21,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
-![alx1](https://user-images.githubusercontent.com/29565570/115892480-d823b800-a45f-11eb-87f6-154abf9df32b.png)
+![alx1](https://user-images.githubusercontent.com/29565570/115893231-9fd0a980-a460-11eb-814f-3418e65d237b.png)
+![alx2](https://user-images.githubusercontent.com/29565570/115893265-a828e480-a460-11eb-9d78-eb5e57cde95d.png)
 
-![alx2](https://user-images.githubusercontent.com/29565570/115892525-e70a6a80-a45f-11eb-8f09-ac9646c10f23.png)
